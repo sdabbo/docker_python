@@ -1,0 +1,7 @@
+name: Components yaml test
+metadata:
+  annotations:
+    author: Simon Dabrowski <simon.dabrowski@tum.de>
+implementation:
+  container:
+    image: docker_python-simon
