@@ -4,4 +4,4 @@ metadata:
     author: Simon Dabrowski <simon.dabrowski@tum.de>
 implementation:
   container:
-    image: docker_python-simon
+    image: image-registry.openshift-image-registry.svc:5000/project-day-two/docker-python@sha256:a636bdce2587d14ae0f2079871f7941372a45ebf94efb764c6df22d7cd707c1c
